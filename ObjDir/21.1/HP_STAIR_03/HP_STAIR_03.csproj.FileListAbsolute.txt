@@ -1,0 +1,9 @@
+C:\Users\SZCZ1360\source\repos\HP_STAIR_03\HP_STAIR_03\bin\Debug\HP_STAIR_03.exe.config
+C:\Users\SZCZ1360\source\repos\HP_STAIR_03\HP_STAIR_03\bin\Debug\HP_STAIR_03.exe
+C:\Users\SZCZ1360\source\repos\HP_STAIR_03\HP_STAIR_03\bin\Debug\HP_STAIR_03.pdb
+C:\Users\SZCZ1360\source\repos\HP_STAIR_03\ObjDir\21.1\HP_STAIR_03\HP_STAIR_03.csprojAssemblyReference.cache
+C:\Users\SZCZ1360\source\repos\HP_STAIR_03\ObjDir\21.1\HP_STAIR_03\HP_STAIR_03.Form1.resources
+C:\Users\SZCZ1360\source\repos\HP_STAIR_03\ObjDir\21.1\HP_STAIR_03\HP_STAIR_03.Properties.Resources.resources
+C:\Users\SZCZ1360\source\repos\HP_STAIR_03\ObjDir\21.1\HP_STAIR_03\HP_STAIR_03.csproj.GenerateResource.cache
+C:\Users\SZCZ1360\source\repos\HP_STAIR_03\ObjDir\21.1\HP_STAIR_03\HP_STAIR_03.exe
+C:\Users\SZCZ1360\source\repos\HP_STAIR_03\ObjDir\21.1\HP_STAIR_03\HP_STAIR_03.pdb
